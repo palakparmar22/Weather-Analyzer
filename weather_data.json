@@ -1,0 +1,250 @@
+[
+  {
+    "city": "Toronto",
+    "temperature": 15.1,
+    "description": "thunderstorm",
+    "humidity": 69,
+    "utc_timestamp": "2025-09-03T15:59:30.754901+00:00",
+    "local_timestamp": "2025-09-03T21:29:30.754901+00:00"
+  },
+  {
+    "city": "Sydney",
+    "temperature": 18.0,
+    "description": "shower rain",
+    "humidity": 67,
+    "utc_timestamp": "2025-09-03T18:59:30.754901+00:00",
+    "local_timestamp": "2025-09-04T00:29:30.754901+00:00"
+  },
+  {
+    "city": "Mumbai",
+    "temperature": 24.5,
+    "description": "mist",
+    "humidity": 74,
+    "utc_timestamp": "2025-09-03T21:59:30.754901+00:00",
+    "local_timestamp": "2025-09-04T03:29:30.754901+00:00"
+  },
+  {
+    "city": "Sydney",
+    "temperature": 32.4,
+    "description": "few clouds",
+    "humidity": 46,
+    "utc_timestamp": "2025-09-04T00:59:30.754901+00:00",
+    "local_timestamp": "2025-09-04T06:29:30.754901+00:00"
+  },
+  {
+    "city": "Sydney",
+    "temperature": 30.8,
+    "description": "shower rain",
+    "humidity": 65,
+    "utc_timestamp": "2025-09-04T03:59:30.754901+00:00",
+    "local_timestamp": "2025-09-04T09:29:30.754901+00:00"
+  },
+  {
+    "city": "Paris",
+    "temperature": 10.1,
+    "description": "overcast clouds",
+    "humidity": 79,
+    "utc_timestamp": "2025-09-04T06:59:30.754901+00:00",
+    "local_timestamp": "2025-09-04T12:29:30.754901+00:00"
+  },
+  {
+    "city": "Paris",
+    "temperature": 24.1,
+    "description": "shower rain",
+    "humidity": 80,
+    "utc_timestamp": "2025-09-04T09:59:30.754901+00:00",
+    "local_timestamp": "2025-09-04T15:29:30.754901+00:00"
+  },
+  {
+    "city": "Mumbai",
+    "temperature": 30.6,
+    "description": "mist",
+    "humidity": 76,
+    "utc_timestamp": "2025-09-04T12:59:30.754901+00:00",
+    "local_timestamp": "2025-09-04T18:29:30.754901+00:00"
+  },
+  {
+    "city": "Singapore",
+    "temperature": 27.8,
+    "description": "rain",
+    "humidity": 42,
+    "utc_timestamp": "2025-09-04T15:59:30.754901+00:00",
+    "local_timestamp": "2025-09-04T21:29:30.754901+00:00"
+  },
+  {
+    "city": "Toronto",
+    "temperature": 21.0,
+    "description": "mist",
+    "humidity": 53,
+    "utc_timestamp": "2025-09-04T18:59:30.754901+00:00",
+    "local_timestamp": "2025-09-05T00:29:30.754901+00:00"
+  },
+  {
+    "city": "Paris",
+    "temperature": 23.0,
+    "description": "few clouds",
+    "humidity": 49,
+    "utc_timestamp": "2025-09-04T21:59:30.754901+00:00",
+    "local_timestamp": "2025-09-05T03:29:30.754901+00:00"
+  },
+  {
+    "city": "Toronto",
+    "temperature": 14.0,
+    "description": "thunderstorm",
+    "humidity": 87,
+    "utc_timestamp": "2025-09-05T00:59:30.754901+00:00",
+    "local_timestamp": "2025-09-05T06:29:30.754901+00:00"
+  },
+  {
+    "city": "Sydney",
+    "temperature": 30.0,
+    "description": "shower rain",
+    "humidity": 79,
+    "utc_timestamp": "2025-09-05T03:59:30.754901+00:00",
+    "local_timestamp": "2025-09-05T09:29:30.754901+00:00"
+  },
+  {
+    "city": "Tokyo",
+    "temperature": 25.8,
+    "description": "broken clouds",
+    "humidity": 90,
+    "utc_timestamp": "2025-09-05T06:59:30.754901+00:00",
+    "local_timestamp": "2025-09-05T12:29:30.754901+00:00"
+  },
+  {
+    "city": "Delhi",
+    "temperature": 22.0,
+    "description": "rain",
+    "humidity": 52,
+    "utc_timestamp": "2025-09-05T09:59:30.754901+00:00",
+    "local_timestamp": "2025-09-05T15:29:30.754901+00:00"
+  },
+  {
+    "city": "Ahmedabad",
+    "temperature": 26.5,
+    "description": "overcast clouds",
+    "humidity": 88,
+    "utc_timestamp": "2025-09-06T04:16:35.676934+00:00",
+    "local_timestamp": "2025-09-06T09:46:35.676934"
+  },
+  {
+    "city": "Mumbai",
+    "temperature": 26.79,
+    "description": "overcast clouds",
+    "humidity": 80,
+    "utc_timestamp": "2025-09-06T12:15:42.992275+00:00",
+    "local_timestamp": "2025-09-06T17:45:42.992275"
+  },
+  {
+    "city": "Ahmedabad",
+    "temperature": 29.1,
+    "description": "overcast clouds",
+    "humidity": 68,
+    "utc_timestamp": "2025-09-07T05:35:10.424207+00:00",
+    "local_timestamp": "2025-09-07T11:05:10.424207"
+  },
+  {
+    "city": "Nashik",
+    "temperature": 21.08,
+    "description": "overcast clouds",
+    "humidity": 97,
+    "utc_timestamp": "2025-09-07T05:57:15.479752+00:00",
+    "local_timestamp": "2025-09-07T11:27:15.479752"
+  },
+  {
+    "city": "Nashik",
+    "temperature": 21.08,
+    "description": "overcast clouds",
+    "humidity": 97,
+    "utc_timestamp": "2025-09-07T06:20:11.459881+00:00",
+    "local_timestamp": "2025-09-07T11:50:11.459881"
+  },
+  {
+    "city": "Gandhinagar",
+    "temperature": 26.95,
+    "description": "overcast clouds",
+    "humidity": 79,
+    "utc_timestamp": "2025-09-07T06:23:10.047127+00:00",
+    "local_timestamp": "2025-09-07T11:53:10.047127"
+  },
+  {
+    "city": "Ahmedabad",
+    "temperature": 25.3,
+    "description": "overcast clouds",
+    "humidity": 86,
+    "utc_timestamp": "2025-09-07T09:21:33.848891+00:00",
+    "local_timestamp": "2025-09-07T14:51:33.848891"
+  },
+  {
+    "city": "Nashik",
+    "temperature": 21.43,
+    "description": "overcast clouds",
+    "humidity": 96,
+    "utc_timestamp": "2025-09-07T09:42:56.958628+00:00",
+    "local_timestamp": "2025-09-07T15:12:56.958628"
+  },
+  {
+    "city": "Nashik",
+    "temperature": 21.43,
+    "description": "overcast clouds",
+    "humidity": 96,
+    "utc_timestamp": "2025-09-07T09:59:22.717304+00:00",
+    "local_timestamp": "2025-09-07T15:29:22.717304"
+  },
+  {
+    "city": "Gandhinagar",
+    "temperature": 24.73,
+    "description": "overcast clouds",
+    "humidity": 87,
+    "utc_timestamp": "2025-09-07T09:59:22.710759+00:00",
+    "local_timestamp": "2025-09-07T15:29:22.710759"
+  },
+  {
+    "city": "Vadodara",
+    "temperature": 26.74,
+    "description": "overcast clouds",
+    "humidity": 82,
+    "utc_timestamp": "2025-09-07T09:59:22.717304+00:00",
+    "local_timestamp": "2025-09-07T15:29:22.717304"
+  },
+  {
+    "city": "Surat",
+    "temperature": 27.61,
+    "description": "overcast clouds",
+    "humidity": 84,
+    "utc_timestamp": "2025-09-07T09:59:22.710759+00:00",
+    "local_timestamp": "2025-09-07T15:29:22.710759"
+  },
+  {
+    "city": "Mahes\u0101na",
+    "temperature": 25.2,
+    "description": "overcast clouds",
+    "humidity": 88,
+    "utc_timestamp": "2025-09-07T09:59:22.717304+00:00",
+    "local_timestamp": "2025-09-07T15:29:22.717304"
+  },
+  {
+    "city": "Patan",
+    "temperature": 26.81,
+    "description": "overcast clouds",
+    "humidity": 84,
+    "utc_timestamp": "2025-09-07T09:59:22.809318+00:00",
+    "local_timestamp": "2025-09-07T15:29:22.809318"
+  },
+  {
+    "city": "Mumbai",
+    "temperature": 26.66,
+    "description": "overcast clouds",
+    "humidity": 81,
+    "utc_timestamp": "2025-09-07T11:20:24.163238+00:00",
+    "local_timestamp": "2025-09-07T16:50:24.163238"
+  },
+  {
+    "city": "Ahmedabad",
+    "temperature": 25.76,
+    "description": "overcast clouds",
+    "humidity": 82,
+    "utc_timestamp": "2025-09-07T11:27:44.844818+00:00",
+    "local_timestamp": "2025-09-07T16:57:44.844818"
+  }
+]
